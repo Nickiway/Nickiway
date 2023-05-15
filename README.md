@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-Hey there! ✨ I'm Nick [https://www.instagram.com/nickiway_/], a Junior JavaScript enthusiast.
+Hey there! ✨ I'm  [Nick](https://www.instagram.com/nickiway_/), a Junior JavaScript enthusiast.
 
 ## ℹ️ About Me
 I'm passionate about web development and love working with JavaScript. I'm constantly learning and exploring new technologies to improve my skills.
@@ -18,6 +18,6 @@ Here are some of the skills I've acquired during my journey:
 - Problem-solving and debugging
 
 ## 🤝 Let's Connect
-I'm always open to collaboration and learning from fellow developers. If you'd like to connect, feel free to reach out to me via LinkedIn [https://www.linkedin.com/in/nick-shkitak-b1610b260/] or Instagram [https://www.instagram.com/nickiway_/].
+I'm always open to collaboration and learning from fellow developers. If you'd like to connect, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/nick-shkitak-b1610b260/) or [Instagram](https://www.instagram.com/nickiway_/).
 
 Thanks for visiting my GitHub profile. Have a great day! 🌟
